@@ -16,17 +16,8 @@ This project implements a semantic scene understanding pipeline for autonomous d
 
 Below is an example of the system's output on a sample driving video. The video is processed to show semantic segmentation and annotated movement decisions for each frame.
 
-### Embedded Output Video
-
-<details>
-  <summary>Click to view embedded video (if supported by your platform)</summary>
-
-  <video width="640" controls>
-    <source src="videos/demo.mp4" type="video/avi">
-    Your browser does not support the video tag. [Download the video](videos/00067cfb-e535423e_out_1.avi)
-  </video>
-
-</details>
+Demo video can be viewed on [Youtube](https://www.youtube.com/watch?v=dK-Rmfju8zg)
+[![Demo image](docs/demo.png)](https://www.youtube.com/watch?v=dK-Rmfju8zg)
 
 ## Getting Started
 
