@@ -1,0 +1,5 @@
+SegFormerApp/src/__pycache__/__init__.cpython-312.pyc
+SegFormerApp/src/__pycache__/llm_prompt.cpython-312.pyc
+SegFormerApp/src/__pycache__/segmentation.cpython-312.pyc
+SegFormerApp/src/__pycache__/video_processor.cpython-312.pyc
+SegFormerApp/src/__pycache__/vision_system.cpython-312.pyc

@@ -1,0 +1,29 @@
+================================================================================
+SCENE DESCRIPTION FOR LLM (Movement Decision Making)
+================================================================================
+Scene Analysis (12 object types detected):
+
+NAVIGATION SURFACES:
+- Road: large area, located at bottom-center of scene (25.1% coverage)
+- Sidewalk: small area, located at middle-center of scene (0.2% coverage)
+
+DYNAMIC OBJECTS (Potential Moving Obstacles):
+- Car: large size, positioned at middle-center (24.3% of view)
+- Person: small size, positioned at middle-center (0.6% of view)
+- Rider: small size, positioned at middle-right (0.4% of view)
+- Truck: small size, positioned at bottom-center (0.3% of view)
+- Rider: small size, positioned at middle-right (0.4% of view)
+
+STATIC OBSTACLES:
+- Building: large, top-center area (36.6% coverage)
+- Pole: small, top-center area (1.0% coverage)
+- Traffic Sign: small, top-center area (0.3% coverage)
+- Traffic Light: small, middle-left area (0.2% coverage)
+
+ENVIRONMENT CONTEXT:
+- Rider: middle-right (0.4% coverage)
+- Vegetation: middle-center (7.0% coverage)
+...
+  * Car at center
+  * Person at center
+  * Rider at right
