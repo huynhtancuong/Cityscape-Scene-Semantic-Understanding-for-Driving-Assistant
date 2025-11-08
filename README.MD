@@ -4,6 +4,9 @@
 
 This project implements a semantic scene understanding pipeline for autonomous driving assistance using the SegFormer model. It performs semantic segmentation on cityscape images and videos, analyzes spatial relationships between detected objects, and generates natural language scene descriptions suitable for large language models (LLMs). The system can recommend movement decisions (such as direction, speed, and hazard avoidance) based on real-time visual input.
 
+![](docs/problem.png)
+![](docs/schema.png)
+
 ### Key Features
 
 - **Semantic Segmentation:** Uses a pretrained SegFormer model to segment cityscape scenes into classes such as road, sidewalk, car, person, building, etc.
@@ -18,6 +21,9 @@ Below is an example of the system's output on a sample driving video. The video 
 
 Demo video can be viewed on [Youtube](https://www.youtube.com/watch?v=dK-Rmfju8zg)
 [![Demo image](docs/demo.png)](https://www.youtube.com/watch?v=dK-Rmfju8zg)
+
+## Presentation
+Checkout my presentation on [Youtube](https://www.youtube.com/watch?v=AsprKfF0jbQ) 
 
 ## Getting Started
 
