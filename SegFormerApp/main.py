@@ -6,6 +6,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 from src.video_processor import annotate_frame, process_video_file
+from src.vision_system import vision_to_movement_pipeline
 
 def test_segmentation():
     # Example usage with labels:
