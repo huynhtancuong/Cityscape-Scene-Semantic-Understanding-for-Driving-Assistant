@@ -1,4 +1,4 @@
-name: /home/huynh/repos/ACV03/CourseProject/.conda
+name: acv03
 channels:
   - conda-forge
   - defaults
@@ -130,4 +130,4 @@ dependencies:
       - typing-extensions==4.15.0
       - typing-inspection==0.4.2
       - urllib3==2.5.0
-prefix: /home/huynh/repos/ACV03/CourseProject/.conda
+prefix: acv03
